@@ -80,4 +80,5 @@ This project demonstrates how data analytics and visualization can be used to co
 ---
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/pruthviraj-v-mariguddi-5b647228a/
+
 📧 **Email**: pruthvirajmariguddi@gmail.com
